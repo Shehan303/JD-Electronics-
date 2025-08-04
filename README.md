@@ -1,5 +1,8 @@
 
-📦 Inventory and Customer Management System
+###📦 Inventory and Customer Management System
+
+![JD Computers](https://github.com/user-attachments/assets/405b8546-0bba-4a20-8819-4f56e33c9eab)
+
 
 Project Overview
 This project proposes an advanced Inventory and Customer Management System for J.D. Computer & Electronic, a prominent provider of CCTV surveillance systems and computer hardware located in Ambalantota. The system aims to address inefficiencies in inventory and customer management while improving operational efficiency, scalability, and user satisfaction.
